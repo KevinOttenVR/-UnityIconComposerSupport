@@ -38,4 +38,4 @@ That’s it! No additional configuration required.
 - Unity 2019.3 or newer (tested on Unity 6 / 6000.x)
 - Xcode 26 or newer
 - The script uses the **first** `.icon` bundle it finds in `Assets/AppIcon/`
-- Unity may show the `.icon` as a folder in the Project view – that’s expected
+- Unity may show the `.icon` as a folder in the Project view. That’s expected!
